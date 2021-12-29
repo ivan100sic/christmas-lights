@@ -1,5 +1,7 @@
 # christmas-lights
 
+![Demo](https://raw.githubusercontent.com/ivan100sic/christmas-lights/master/demo.gif)
+
 Light up your desktop! Just download and run the app. No configuration required.
 
 **How do I know you're not going to hack me?**
